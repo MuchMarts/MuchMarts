@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @MuchMarts
--I'm a computer science student from University of Latvia.
+- I'm a computer science student from the University of Latvia.
+- I love tech and love breaking things :P
