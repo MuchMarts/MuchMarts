@@ -1,8 +1,11 @@
 # Hey! You found me... it is me, MuchMarts!
 <p><em>
-    Student at <a href="https://www.lu.lv/">University of Latvia</a>
-</br>
-Software Engineer at <a href="https://failiem.lv/">Failiem.lv</a>
+    Masters student at <a href="https://www.lu.lv/">University of Latvia</a> with a focus on Computer Engineering.
+    <br>
+    Bachelor's Degree from <a href="https://www.lu.lv/">University of Latvia</a> and <a href="https://www.lincoln.ac.uk/">University of Lincoln</a> with a focus on Artifical Inteligence.
+    <br><br>
+    Software Engineer at <a href="https://failiem.lv/">Failiem.lv</a>
+</em></p>
 
 [![Linkedin: MuchMarts](https://img.shields.io/badge/-@muchmarts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muchmarts/)](https://www.linkedin.com/in/muchmarts/)
 
@@ -14,7 +17,7 @@ I am from latvia and I am very passionate about all things tech. In my free time
 ---
 <b>Work experience:</b><br>
 \>[Failiem.lv](https://failiem.lv/)<br>
-Currently working as a PHP backend developer. Working on a document management system.
+Currently working as a Software Engineer with a focus area on backend systems. Working on a document management system.
 
 <b>Organizations/Events I am currently involved in: </b><br>
 \>[NGO Datoriķi](https://datoriki.org)<br>
@@ -33,6 +36,5 @@ Updating a highschool project using Sveltkit. The greatest affirmation maker thi
 Learning about golang and cicd. Making backend API services. Working on a potential SAAS project.
 
 ---
-### Technology I use or have used:
-Python, C++, C#, Unity, Godot, Laravel, PHP, Docker, Authentik, Prolog, OpenCL, Nginx, Traefik, Sveltekit, Javascript, Tailwind, SCSS
->Last edited: 21/04/2026
+### Technology I use:
+Python, C++, C#, Unity, Godot, PHP, Docker, Nginx, Traefik, Javascript
