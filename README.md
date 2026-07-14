@@ -2,7 +2,7 @@
 <p><em>
     Masters student at <a href="https://www.lu.lv/">University of Latvia</a> with a focus on Computer Engineering.
     <br>
-    Bachelor's Degree from <a href="https://www.lu.lv/">University of Latvia</a> and <a href="https://www.lincoln.ac.uk/">University of Lincoln</a> with a focus on Artifical Inteligence.
+    Bachelor's Degree from <a href="https://www.lu.lv/">University of Latvia</a> and <a href="https://www.lincoln.ac.uk/">University of Lincoln</a> with a focus on Artifical Inteligence. (Bachelor's thesis grade 10)
     <br><br>
     Software Engineer at <a href="https://failiem.lv/">Failiem.lv</a>
 </em></p>
